@@ -1,0 +1,273 @@
+fileFormatVersion: 2
+guid: cb6f228eb8d58204c86aee2b2443e2de
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Armature.001
+    100002: Bone
+    100004: Bone.001
+    100006: Foot.L
+    100008: Foot.R
+    100010: Hand.L
+    100012: Hand.L.001
+    100014: Hand.L.002
+    100016: Hand.L.003
+    100018: Hand.L.004
+    100020: Hand.L.005
+    100022: Hand.L.006
+    100024: Hand.L.007
+    100026: Hand.L.008
+    100028: Hand.L.009
+    100030: Hand.L.010
+    100032: Hand.L.011
+    100034: Hand.L.012
+    100036: Hand.L.013
+    100038: Hand.L.014
+    100040: Hand.L.015
+    100042: Hand.L.016
+    100044: Hand.L.017
+    100046: Hand.L.018
+    100048: Hand.L.019
+    100050: Hand.R
+    100052: Hand.R.001
+    100054: Hand.R.002
+    100056: Hand.R.003
+    100058: Hand.R.004
+    100060: Hand.R.005
+    100062: Hand.R.006
+    100064: Hand.R.007
+    100066: Hand.R.008
+    100068: Hand.R.009
+    100070: Hand.R.010
+    100072: Hand.R.011
+    100074: Hand.R.012
+    100076: Hand.R.013
+    100078: Hand.R.014
+    100080: Hand.R.015
+    100082: Hand.R.016
+    100084: Hand.R.017
+    100086: Hand.R.018
+    100088: Hand.R.019
+    100090: Head
+    100092: Head.001
+    100094: Head.002
+    100096: Hip
+    100098: Lower Arm.L
+    100100: Lower Arm.R
+    100102: Mesh.001
+    100104: Neck
+    100106: Shin.L
+    100108: Shin.R
+    100110: Sholder.L
+    100112: Sholder.R
+    100114: //RootNode
+    100116: Spine.002
+    100118: Spine.01
+    100120: Spine.02
+    100122: Thigh.L
+    100124: Thigh.L.001
+    100126: Thigh.R
+    100128: Thigh.R.001
+    100130: Toes.L
+    100132: Toes.R
+    100134: Upper Arm.L
+    100136: Upper Arm.L.001
+    100138: Upper Arm.R
+    100140: Upper Arm.R.001
+    400000: Armature.001
+    400002: Bone
+    400004: Bone.001
+    400006: Foot.L
+    400008: Foot.R
+    400010: Hand.L
+    400012: Hand.L.001
+    400014: Hand.L.002
+    400016: Hand.L.003
+    400018: Hand.L.004
+    400020: Hand.L.005
+    400022: Hand.L.006
+    400024: Hand.L.007
+    400026: Hand.L.008
+    400028: Hand.L.009
+    400030: Hand.L.010
+    400032: Hand.L.011
+    400034: Hand.L.012
+    400036: Hand.L.013
+    400038: Hand.L.014
+    400040: Hand.L.015
+    400042: Hand.L.016
+    400044: Hand.L.017
+    400046: Hand.L.018
+    400048: Hand.L.019
+    400050: Hand.R
+    400052: Hand.R.001
+    400054: Hand.R.002
+    400056: Hand.R.003
+    400058: Hand.R.004
+    400060: Hand.R.005
+    400062: Hand.R.006
+    400064: Hand.R.007
+    400066: Hand.R.008
+    400068: Hand.R.009
+    400070: Hand.R.010
+    400072: Hand.R.011
+    400074: Hand.R.012
+    400076: Hand.R.013
+    400078: Hand.R.014
+    400080: Hand.R.015
+    400082: Hand.R.016
+    400084: Hand.R.017
+    400086: Hand.R.018
+    400088: Hand.R.019
+    400090: Head
+    400092: Head.001
+    400094: Head.002
+    400096: Hip
+    400098: Lower Arm.L
+    400100: Lower Arm.R
+    400102: Mesh.001
+    400104: Neck
+    400106: Shin.L
+    400108: Shin.R
+    400110: Sholder.L
+    400112: Sholder.R
+    400114: //RootNode
+    400116: Spine.002
+    400118: Spine.01
+    400120: Spine.02
+    400122: Thigh.L
+    400124: Thigh.L.001
+    400126: Thigh.R
+    400128: Thigh.R.001
+    400130: Toes.L
+    400132: Toes.R
+    400134: Upper Arm.L
+    400136: Upper Arm.L.001
+    400138: Upper Arm.R
+    400140: Upper Arm.R.001
+    2100000: Material
+    2100002: Material.002
+    2100004: Material.001
+    4300000: Mesh.001
+    7400000: Armature.001|ArmatureAction.001
+    9500000: //RootNode
+    13700000: Mesh.001
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material
+    second: {fileID: 2100000, guid: 5b993e9279fda384d854e9eb54490402, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Armature.001|ArmatureAction.001
+      takeName: Armature.001|ArmatureAction.001
+      firstFrame: 0
+      lastFrame: 1
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
